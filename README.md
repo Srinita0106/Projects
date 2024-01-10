@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Srinita JS
-- 👀 I’m interested in Machine Learning , Computer vision and Web Designing 
+- 👀 I’m interested in Machine Learning and Computer vision 
 - 🌱 I’m currently pursuing my Integrated MSc Artificial Intelligence and Machine Learning
 - 📫 How to reach me jssrinita@gmail.com
 
