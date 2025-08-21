@@ -1,9 +1,0 @@
-- 👋 Hi, I’m Srinita JS
-- 👀 I’m interested in Machine Learning and Computer vision 
-- 🌱 I’m currently pursuing my Integrated MSc Artificial Intelligence and Machine Learning
-
-
-<!---
-Srinita0106/Srinita0106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
